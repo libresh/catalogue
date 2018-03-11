@@ -27,7 +27,7 @@ These are examples of catalog of service providers:
  - [Radical Tech Collectives](https://www.autistici.org/links)
 
 These are 5 examples among many on how to solve the problem.
-As you can see these solutions are customs, and not reusable by say, [matrix](https://github.com/matrix-org/matrix.org/issues/28) which has to yet solve the problem one more time.
+As you can see these solutions are customs, and not reusable by say, [matrix](https://github.com/matrix-org/matrix.org/issues/95) which has to yet solve the problem one more time.
 
 ### Hoster solutions
 
