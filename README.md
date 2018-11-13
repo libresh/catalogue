@@ -31,6 +31,8 @@ As you can see these solutions are customs, and not reusable by say, [matrix](ht
 
 ### Hoster solutions
 
+There is a really nice attempt to solve that with [libreho.st](https://lab.libreho.st/librehosters/librehost-api)
+
 A catalog of application, can also be called [store](https://indieweb.org/store).
 
  - [yunohost](https://github.com/YunoHost/apps/blob/master/official.json)
